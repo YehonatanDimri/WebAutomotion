@@ -40,7 +40,7 @@ public class CropxLogInPageTest extends BaseTest {
         addNewFieldScreen.SecondContinueClick();
         addNewFieldScreen.fieldDetailAdd("Dimri Field");
 
-        //this.driver.quit();
+        this.driver.quit();
 
     }
 }
